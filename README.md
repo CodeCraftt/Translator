@@ -1,4 +1,4 @@
-# 🌍 Translingo: Your Language Translation Companion
+# 🌍 Translator: Your Language Translation Companion
 
 Welcome to **Translator**! This project is a user-friendly language translation tool designed to bridge communication gaps between different languages. Utilizing the powerful capabilities of Google's translation services, Translingo provides accurate and swift translations at your fingertips.
 
